@@ -1,3 +1,7 @@
+### Credits to Amir Eshaq 
+https://www.youtube.com/watch?v=h2WkZ0h0-Rc&list=PL_YW-znSZ_dK365WaVuiBUN6FYc9_1hni&ab_channel=AmirEshaq
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
